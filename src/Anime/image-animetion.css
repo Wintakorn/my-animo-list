@@ -1,0 +1,26 @@
+.animation-image{
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+}
+.image-top-anime{
+    margin: 0px 15px 0px;
+}
+.image-top-anime{
+    border-radius: 5px;
+}
+.animation-image img {
+    transition: transform 0.3s ease-out;
+    width: 100%;
+}
+
+.animation-image img:hover {
+    transform: scale(1.03);
+}
+
+.animation-image{
+    display: flex;
+}
+p{
+    margin-top: 5px;
+}

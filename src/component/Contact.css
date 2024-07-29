@@ -1,0 +1,81 @@
+.Contact{
+    color: #fff;
+    margin: 5% 15% 0%;
+    font-size: 30px;
+    margin-bottom: 0%;
+}
+.header-contact{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    background-color: #2e51a2;
+    padding: 10px;
+    padding-bottom: 15px;
+    font-size: 18px;
+    box-shadow: black 0px 1px 5px;
+}
+.contact-info{
+    background-image: url('https://myanimelist.net/images/top_signup/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* box-shadow: black 0px 0px 03px; */
+}
+
+.contact-info p{
+  padding: 60px 10px;
+}
+.contact-info img{
+    height: 186px;
+    width: 685px;
+  }
+.contact-info{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 10px 0px;
+    flex-wrap: wrap;
+}
+.content-info-right{
+    background-color: #2e51a2;
+    padding: 15px;
+    margin: 20px 50px;
+    text-align: center;
+}
+.gogle_login{
+    margin: 10px 0px;
+    background-color: white;
+    padding: 10px 10px;
+    width: 200px;
+    font-size: 16px;
+    color: black;
+}
+.facebook_login{
+    margin: 10px 0px;
+    background-color: #3b5998;
+    padding: 10px 10px;
+    width: 200px;
+    font-size: 16px;
+}
+.apple_login{
+    margin: 10px 0px;
+    background-color: black;
+    padding: 10px 10px;
+    width: 200px;
+    font-size: 16px;
+}
+.contact-info-bottom img{
+    margin-left: 110px;
+    margin-bottom: 15px;
+}
+/* .content-info-right p{
+    text-align: center;
+    font-size: 16px;
+} */
+.header-contact p:hover{
+    transform: scale(1.10);
+}
+.header-contact p{
+    transition: 0.03s ease-in-out;
+}
+.Contact-info-content{
+    margin-bottom: 0%;
+}
