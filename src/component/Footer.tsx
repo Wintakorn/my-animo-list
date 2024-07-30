@@ -13,7 +13,7 @@ const Footer = () => {
                 width: '100%',
                 display: 'flex',
                 justifyContent: 'center',
-                // alignItems: 'center',
+                alignItems: 'center',
                 color: 'white',
                 fontFamily: 'roboto',
 
@@ -126,7 +126,7 @@ const Footer = () => {
                         <p>Sign-up</p>
                     </div>
                     <div className="Logout-footer">
-                        <p>Sign-up</p>
+                        <p>Log out</p>
                     </div>
                 </div>
                 <ul className="example-2">

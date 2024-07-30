@@ -134,7 +134,7 @@ ul {
   font-weight: bold;
 }
 .footer-top-info{
- margin: 10px 20px 0px;
+ margin: 10px 20px 15px;
  padding: 10px;
  width: 250px;
 }
@@ -142,7 +142,7 @@ ul {
 .header-top-anime-footer{
   display: flex;
   justify-content: space-between;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
   align-items: center;
   
 }
@@ -180,14 +180,12 @@ ul {
   margin-left: 350px;
   margin-right: 30px;
   background-color: #0048ff;
-  padding: 10px;
   border-radius: 5px;
   width: 100px;
   text-align: center;
 }
 .Logout-footer{
   background-color: #333;
-  padding: 10px;
   border-radius: 5px;
   width: 100px;
   text-align: center;
